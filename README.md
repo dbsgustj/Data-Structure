@@ -29,15 +29,19 @@
 
 # 연결 리스트의 종류
 단순 연결 리스트
+
 ![화면 캡처 2023-03-21 103122](https://user-images.githubusercontent.com/126844596/226499474-28be9235-6df0-4071-b3a8-644ac362225c.png)
 
 단순 원형 연결 리스트
+
 ![화면 캡처 2023-03-21 103108](https://user-images.githubusercontent.com/126844596/226499469-87b37bd2-9068-4ae1-9d1e-69812c8ae5c9.png)
 
 이중 연결 리스트
+
 ![화면 캡처 2023-03-21 103043](https://user-images.githubusercontent.com/126844596/226499440-a7166016-5242-460c-8bfa-5702ec59e6a9.png)
 
 이중 원형 연결 리스트 
+
 ![화면 캡처 2023-03-21 103025](https://user-images.githubusercontent.com/126844596/226499420-94ac7057-af45-4aa5-aa84-96545bc66206.png)
 
 # 코드
